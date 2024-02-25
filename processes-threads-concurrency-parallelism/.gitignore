@@ -1,0 +1,9 @@
+*.o
+*.a
+*.so
+*.lib
+*.bin
+*.fifo
+foodsec
+belt
+display

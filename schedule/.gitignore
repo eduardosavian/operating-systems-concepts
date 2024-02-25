@@ -1,0 +1,5 @@
+*.o
+fcfs
+rr
+priority_rr
+.vscode
